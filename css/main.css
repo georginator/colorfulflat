@@ -74,3 +74,50 @@ nav i {
 .logo, ul, .sectionblue p {
 	font-family: 'Baloo Bhaina', cursive;
 }
+
+
+
+/*SECTIONWHITE*/
+
+
+
+.devices {
+	width: 300px;
+	text-align: center;
+	margin:72px 0 0 100px;
+	display: inline-block;
+}
+
+
+
+.sectionwhite .devices img {
+	width: 175px;
+	height: 102px;
+}
+
+.greatideas {
+	width: 300px;
+	text-align: center;
+	margin:72px 0 0 4px;
+	display: inline-block;
+}
+
+
+.greatideas img {
+	height: 104px;
+	width: 108px;
+}
+
+.browser {
+	width: 300px;
+	text-align: center;
+	margin:72px 0 0 4px;
+	display: inline-block;
+}
+
+.browser img {
+	height: 131px;
+	width: 134px;
+	margin-top: -27px;
+	margin-bottom: -10px;
+}
